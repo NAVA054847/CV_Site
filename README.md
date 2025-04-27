@@ -78,15 +78,15 @@
     כדי שהאפליקציה תוכל לתקשר עם GitHub API, תצטרך ליצור טוקן גישה אישי (Personal Access Token) מ-GitHub. בצע את השלבים הבאים:
     
     * עבור להגדרות המפתח האישי שלך ב-GitHub ([https://github.com/settings/tokens](https://github.com/settings/tokens)).
-    * 
+      
     * לחץ על "Generate new token".
-    * 
+      
     * תן שם לטוקן (למשל, "GitHubPortfolio").
-    * 
+      
     * בחר את הסקופ המתאים (במקרה של פרויקט זה, סקופ public_repo עשוי להספיק לקריאת מידע פומבי).
-    * 
+      
     * לחץ על "Generate token". **העתק את הטוקן שנוצר ושמור אותו במקום בטוח.**
-    * 
+   
     * בתוך פרויקט ה-WebAPI שלך, הפעל את הפקודה הבאה בטרמינל (אם עדיין לא עשית זאת, נווט לתיקיית הפרויקט של ה-WebAPI):
 
        
